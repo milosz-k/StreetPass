@@ -9,7 +9,6 @@ MOVE_INCREMENT = 10
 class CarManager():
     """This class is responsible for cars which are passing the road managment."""
     def __init__(self) -> None:
-        super().__init__()
         self.block = []
         self.create_car()
     
