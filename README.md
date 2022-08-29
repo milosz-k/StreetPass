@@ -4,10 +4,5 @@
 ## About
 The Turtle needs to pass the street. Can you help him?
 
-## Getting started
-### Installation
-.
-
 ## Gameplay 
 ![alt text](https://github.com/milosz-k/StreetPass/blob/master/gameplayimg.PNG)
-
