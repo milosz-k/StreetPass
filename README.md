@@ -5,4 +5,4 @@
 The Turtle needs to pass the street. Can you help him?
 
 ## Gameplay 
-![alt text](https://github.com/milosz-k/StreetPass/blob/master/gameplayimg.PNG)
+![alt text](https://github.com/milosz-k/StreetPass/blob/master/doc/gameplayimg.PNG)
