@@ -6,3 +6,6 @@ The Turtle needs to pass the street. Can you help him?
 
 ## Gameplay 
 ![alt text](https://github.com/milosz-k/StreetPass/blob/master/doc/gameplayimg.PNG)
+
+## How to play?
+Up arrow - step forward
